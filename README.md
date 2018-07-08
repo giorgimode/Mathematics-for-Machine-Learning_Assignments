@@ -6,4 +6,5 @@ This repository contains all assignments of the specialization Mathematics for M
 However, you SHOULD NOT simply copy the codes. This may result in permanent failure of the course, and will NOT help you understand the knowledge introduced. I recommend you to read and understand the codes instead. If you have any questions, feel free to leave a comment. (Hopefully)I am able to remember the details of these assignments. Best of luck
 
 Sincerely,
+
 George Wang
